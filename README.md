@@ -1,7 +1,7 @@
 # Student Registration & Contact Intelligence System
 
 **Course:** BCA Semester 1 — Python Programming  
-**Student:** G. Lasya Priya  
+**Student:** B.pallavi 
 **Section:** C
 
 ## Project overview
