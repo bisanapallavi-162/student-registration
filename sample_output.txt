@@ -1,0 +1,30 @@
+STUDENT REGISTRATION & CONTACT INTELLIGENCE
+
+1. Register a student
+2. View all students
+3. Search student/contact
+4. Update student details
+5. Delete student record
+6. Exit
+
+Example registration:
+Enter your choice (1-6): 1
+Student ID: 101
+Full name: Sample Student
+Email address: sample@example.com
+Phone number: 9876543210
+Course: BCA
+City: Bengaluru
+Student registered successfully.
+
+Example search:
+Enter your choice (1-6): 3
+Enter ID, name, email or phone to search: 101
+
+Found 1 matching record(s):
+Student Id: 101
+Name: Sample Student
+Email: sample@example.com
+Phone: 9876543210
+Course: BCA
+City: Bengaluru
