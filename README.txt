@@ -1,0 +1,1 @@
+After you run the program, take screenshots of the menu and report on your phone/computer and upload those screenshots into this folder. Do not claim screenshots are included until you add your own evidence.
