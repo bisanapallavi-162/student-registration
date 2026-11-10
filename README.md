@@ -1,10 +1,5 @@
-# Student Registration & Contact Intelligence System
-
-**Student Name:** Bisana Pallavi  
-**Course:** BCA Semester 1 - Basics of Python  
-**Batch:** Batch 1  
-**College:** Christ Academy
-
+**project:**# Student Registration & Contact Intelligence System
+**Course:** BCA Semester 1 python programming.
 ## Project Overview
 A Python-based system to clean and manage coaching-centre contacts. It reads
 `contacts.csv`, validates records, rejects invalid and duplicate records, and
